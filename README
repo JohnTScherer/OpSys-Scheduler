@@ -1,0 +1,6 @@
+-OpSys-Scheduler
+ -===============
+ -
+ -Simulates an operating system scheduler, building processes and then running them with different scheduling algorithms.
+ -
+ -Implements First Come First Server, Shortest Job First, Round Robin, and Priority Pre-emptive Scheduling algorithms.
